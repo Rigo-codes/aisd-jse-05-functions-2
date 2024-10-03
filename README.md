@@ -327,7 +327,7 @@ Understanding both types of functions and how to use them interchangeably will g
 
 💾 **Not something to copy and paste** 💾
 
-**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-string-methods/tree/solution) (link not shown).
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-jse-05-functions-2/tree/solution) (link not shown).
 
 
 ---
